@@ -1,1 +1,3 @@
-# progect5
+# Wordly
+Привет! Это игра Wordly. Правила игры: Загадывается слово из файла. Игрок вводит слово той же длинны, что и исходное. Программа показывает буквы, которые находятся на своих местах и буквы, которые есть в слове, но положение их не угадано. Игрок вводит новое слово и т.д. Игра заканчивается когда угадано слово или введено 6 неправильных слов. Желаю удачи!
+Hi! This is a Wordly game. Game rules: A word is guessed from a file. The player enters a word of the same length as the original one. The program shows the letters that are in their places and the letters that are in the word, but their position is not guessed. The player enters a new word, etc. The game ends when a word is guessed or 6 incorrect words are entered. Good luck!
