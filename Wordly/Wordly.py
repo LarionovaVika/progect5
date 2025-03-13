@@ -2,8 +2,8 @@ from random import choice
 
 
 print('Привет!/Hello!')
-print('Это игра Wordly./')
-print('Правила игры:/')
+print('Это игра Wordly./This is a Wordly game.')
+print('Правила игры:/The rules of the game:')
 print('Игрок вводит слово той же длинны, что и исходное. Программа показывает буквы, которые находятся на своих местах и буквы, которые есть в слове, но положение их не угадано. Игрок вводит новое слово и т.д. Игра заканчивается когда угадано слово или введено 6 неправильных слов./The player enters a word of the same length as the original one. The program shows the letters that are in their places and the letters that are in the word, but their position is not guessed. The player enters a new word and so on. The game ends when a word is guessed or 6 incorrect words are entered.')
 print('Удачи!/Good luck!')
 print('Выберите язык(русский или английский)./Select a language(russian or english).')
